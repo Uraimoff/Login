@@ -1,0 +1,28 @@
+.card{
+    background-color: aliceblue;
+    width: 300px;
+    z-index: 999;
+}
+.card_txt{
+    width: 250px;
+    padding: 20px;
+
+}
+.card_title{
+    /* background: #000; */
+    font-size: 20px;
+    font-weight: 700;
+}
+.card_image{
+    width: 300px;
+    height: 200px;
+}
+.card button{
+    font-size: 18px;
+    color: white;
+    background-color: #0084FF;
+    border: none;
+    border-radius: 10px;
+    padding: 6px 20px;
+    margin:   0  80px 20px 80px;
+}

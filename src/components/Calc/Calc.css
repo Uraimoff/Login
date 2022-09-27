@@ -1,0 +1,40 @@
+.calc{
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    /* width: 300px; */
+    height: auto;
+}
+.display{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.veriable{
+    /* background: #000; */
+    font-size: 100px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttons{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.add{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.remove{
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
